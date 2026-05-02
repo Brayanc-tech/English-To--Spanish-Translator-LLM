@@ -34,7 +34,7 @@ Package versions used during development:
 - `tensorflow`: 2.21.0
 - `llms-from-scratch`: used to help build gpt2 model
 
-## Installation
-# run batch
+# Installation
+## Run Batch
 pip install -r requirements.txt
 
