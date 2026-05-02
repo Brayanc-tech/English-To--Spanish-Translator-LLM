@@ -1,0 +1,162 @@
+[
+    {
+        "input": "I am feeling refreshed",
+        "output": "Estoy refrescao",
+        "model_response": "Estoy emocional"
+    },
+    {
+        "input": "This is very refreshing",
+        "output": "Esto esta refrescante",
+        "model_response": "Esto esta refreshing"
+    },
+    {
+        "input": "I need to clean the fridge",
+        "output": "Tengo que limpiar la nevera",
+        "model_response": "Tengo que limpiar el fridge"
+    },
+    {
+        "input": "I am going to check the pantry",
+        "output": "Voy a chequear la alacena",
+        "model_response": "Voy a chequear la pantry"
+    },
+    {
+        "input": "Do you want to go for a snack later",
+        "output": "Quieres buscar un snack mas tarde",
+        "model_response": "Quieres ir por un snackir"
+    },
+    {
+        "input": "I am feeling thoughtful",
+        "output": "Estoy pensativo",
+        "model_response": "Estoy estresivo"
+    },
+    {
+        "input": "This is very thoughtful",
+        "output": "Esto es bien considerado",
+        "model_response": "Esto esta bien siesta"
+    },
+    {
+        "input": "I need to clean the shelves",
+        "output": "Tengo que limpiar las repisas",
+        "model_response": "Tengo que limpiar el banco"
+    },
+    {
+        "input": "I am going to check the attic",
+        "output": "Voy a chequear el atico",
+        "model_response": "Voy a chequear la puerta"
+    },
+    {
+        "input": "Do you want to go for a walk later",
+        "output": "Quieres caminar mas tarde",
+        "model_response": "Quieres ir por una vuelta"
+    },
+    {
+        "input": "I am feeling peaceful today",
+        "output": "Hoy estoy en paz",
+        "model_response": "Hoy estoy tranquilo"
+    },
+    {
+        "input": "This is very calming",
+        "output": "Esto calma mucho",
+        "model_response": "Esto calor"
+    },
+    {
+        "input": "I need to clean the stairs",
+        "output": "Tengo que limpiar las escaleras",
+        "model_response": "Tengo que limpiar el stairs"
+    },
+    {
+        "input": "I am going to check the front yard",
+        "output": "Voy a chequear el frente",
+        "model_response": "Voy a chequear la puerta"
+    },
+    {
+        "input": "Do you want to go for a drive later",
+        "output": "Quieres dar una vuelta mas tarde",
+        "model_response": "Quieres ir por un carro dar una vuelta"
+    },
+    {
+        "input": "I am feeling balanced",
+        "output": "Estoy balanceado",
+        "model_response": "Estoy estoy balance"
+    },
+    {
+        "input": "This is very balanced",
+        "output": "Esto esta bien balanceado",
+        "model_response": "Esto esta bien balance"
+    },
+    {
+        "input": "I need to clean the fan",
+        "output": "Tengo que limpiar el abanico",
+        "model_response": "Tengo que limpiar el fan"
+    },
+    {
+        "input": "I am going to check the ceiling",
+        "output": "Voy a chequear el techo",
+        "model_response": "Voy a chequear la puerta"
+    },
+    {
+        "input": "Do you want to go for a walk outside",
+        "output": "Quieres caminar afuera",
+        "model_response": "Quieres ir por una vuelta"
+    },
+    {
+        "input": "I am feeling calm again",
+        "output": "Estoy tranquilo otra vez",
+        "model_response": "Estoy calor"
+    },
+    {
+        "input": "This is very soothing",
+        "output": "Esto esta relajante",
+        "model_response": "Esto esta bien suave"
+    },
+    {
+        "input": "I need to clean the blinds",
+        "output": "Tengo que limpiar las persianas",
+        "model_response": "Tengo que limpiar el banco"
+    },
+    {
+        "input": "I am going to check the windows again",
+        "output": "Voy a chequear las ventanas otra vez",
+        "model_response": "Voy a chequear la puerta"
+    },
+    {
+        "input": "Do you want to go for a snack now",
+        "output": "Quieres buscar un snack ahora",
+        "model_response": "Quieres ir por un snack"
+    },
+    {
+        "input": "I am feeling awake",
+        "output": "Estoy despierto",
+        "model_response": "Hoy estoy abrumado"
+    },
+    {
+        "input": "This is very awakening",
+        "output": "Esto despierta mucho",
+        "model_response": "Esto esta bien awakening"
+    },
+    {
+        "input": "I need to clean the counters",
+        "output": "Tengo que limpiar los counters",
+        "model_response": "Tengo que limpiar el counter"
+    },
+    {
+        "input": "I am going to check the microwave",
+        "output": "Voy a chequear el microondas",
+        "model_response": "Voy a chequear la puerta"
+    },
+    {
+        "input": "Do you want to go for a drink later",
+        "output": "Quieres ir por un trago mas tarde",
+        "model_response": "Quieres ir por un banco"
+    },
+    {
+        "input": "I am feeling open minded",
+        "output": "Estoy mente abierta",
+        "model_response": "Estoy emocional"
+    },
+    {
+        "input": "This is very open minded",
+        "output": "Esto es bien mente abierta",
+        "model_response": "Esto esta bien open"
+    }
+]
