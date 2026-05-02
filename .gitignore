@@ -1,0 +1,6 @@
+#ignore due to large datasets if applicable. 
+__pycache__/
+*.pyc
+*.pth
+gpt2/
+english_spanish_with_responses.json
