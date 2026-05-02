@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tiktoken
+torch
+tqdm
+tensorflow
+llms-from-scratch
