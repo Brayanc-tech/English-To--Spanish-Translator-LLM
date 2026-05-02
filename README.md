@@ -13,7 +13,6 @@ Chapter 7 from the GitHub project helped prepare a dataset for supervised fine-t
 This specific LLM focuses on translating English sentences into Spanish with a Puerto Rican dialect. The dataset consists of pairs of English sentences and their corresponding Spanish translations.
 
 ## Package Versions
-
 The code uses the following packages:
 
 - `numpy`: PyTorch and TensorFlow dependency
@@ -22,6 +21,8 @@ The code uses the following packages:
 - `torch`: deep learning library
 - `tqdm`: progress bar
 - `tensorflow`: used for OpenAI's pretrained weights
+- `llms-from-scratch`: used to help build gpt2 model
+
 
 Package versions used during development:
 
@@ -31,3 +32,6 @@ Package versions used during development:
 - `torch`: 2.5.1+cpu
 - `tqdm`: 4.67.3
 - `tensorflow`: 2.21.0
+- `llms-from-scratch`: used to help build gpt2 model
+
+## Look at requirements.txt for installations
