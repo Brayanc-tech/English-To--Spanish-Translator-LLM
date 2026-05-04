@@ -1,3 +1,4 @@
+#introduce a freezing strategy based on dataset
 #Prepare a dataset for supervised fine-tuning of a language model. The dataset should consist of pairs of English sentences and their corresponding Spanish translations.
 import json
 import os
@@ -99,7 +100,7 @@ def custom_collate_draft_1(
             new_item + [pad_token_id] *
             (batch_max_length - len(new_item))
         )
-        # Via padded[:-1], we remove the extra padded token
+        
         # that has been added via the +1 setting in batch_max_length
         # (the extra padding token will be relevant in later codes)
         inputs = torch.tensor(padded[:-1])
